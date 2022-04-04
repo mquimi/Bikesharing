@@ -13,12 +13,16 @@ Overall, we had to find a way to convince investiors that a bike-shairng program
  Below are a couple of results that were gathered.
 
 
-[Checkout times for users](images/Checkout Times for Users.png)
+[Checkout times for users](images/Checkout%20Times%20for%20Users.png)
  The majority of users check out between the first twenty minutes. This information tell us that the system would need to invest in high quantity if bikes to cover the demand. On the other hand, it could result in less repairs as trips are short.
 
 [User trips by Gender by Weekday](images/Trips by Gender by Weekday.png)
  Males seem to rely on the system for their transportation as most are subscribers. Most users of the system are subscribers, using it weekdays. Non-subscribers use it more during the weekend.
 
+[Trips by Weekday per hour](images/Trips by Weekday for Each Hour.png)
+During the weekdays, the trend shows us that people use the service to commute to and from work; however after work is when they used it more. Saturday is also the stronger day for bike users during the weekend.
 
+Trips by Gender
+Males are clearly the majority of the system users, having the commute from work as the strongest time. For example, females represent 34% of the males' usage during the busier day, Thursday at 5 PM.
 ### Summary:
 
