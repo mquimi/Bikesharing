@@ -16,13 +16,18 @@ Overall, we had to find a way to convince investiors that a bike-shairng program
 [Checkout times for users](images/Checkout%20Times%20for%20Users.png)
  The majority of users check out between the first twenty minutes. This information tell us that the system would need to invest in high quantity if bikes to cover the demand. On the other hand, it could result in less repairs as trips are short.
 
-[User trips by Gender by Weekday](images/Trips by Gender by Weekday.png)
+[Checkout times by Gender](images/Checkout%20Times%20by%20Gender.png)
+The difference between males and females is in terms of the number of users, as the trend keeps being very similar to the general one. Males tend to take slightly longer trips.
+
+[User trips by Gender by Weekday](images/Trips%20by%20Gender%20by%20Weekday.png)
  Males seem to rely on the system for their transportation as most are subscribers. Most users of the system are subscribers, using it weekdays. Non-subscribers use it more during the weekend.
 
-[Trips by Weekday per hour](images/Trips by Weekday for Each Hour.png)
+[Trips by Weekday per hour](images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 During the weekdays, the trend shows us that people use the service to commute to and from work; however after work is when they used it more. Saturday is also the stronger day for bike users during the weekend.
 
-Trips by Gender
+[Trips by Gender](images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 Males are clearly the majority of the system users, having the commute from work as the strongest time. For example, females represent 34% of the males' usage during the busier day, Thursday at 5 PM.
+
 ### Summary:
 
+[link to dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysischallengeFinal/NYCCitiBikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link "link to dashboard")
